@@ -19,7 +19,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DocumentManagementSystemApplication {
+public class ExcelReplace {
 
     public static void main(String[] args) {
         String directoryPath = "C:\\Users\\kotowskim\\Desktop\\stamper\\src\\test\\resources\\document-templates"; // główny katalog
